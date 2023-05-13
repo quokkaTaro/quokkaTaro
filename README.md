@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning **Angular, JavaScript, HTML, CSS, SQL**
 
 - 📫 How to reach me **gpcj666666@gmail.com**
-<h2 align='center'>
+
 ![image](https://github.com/quokkaTaro/quokkaTaro/assets/133376194/571db307-b66c-4260-ae6a-1fd2de7aeb7f)
-</h2>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
